@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoanManager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_list">No debts added.</string>
+    <string name="title_activity_add_debtor">AddDebtor</string>
+    <string name="canceled_message">Cancelled</string>
+    <string name="Add">AddDebtor</string>
+    <string name="text_image_hint">press me to take a picture</string>
+    <string name="entire_name">Entire Name</string>
+    <string name="txt_init_loan">Init Loan</string>
+    <string name="txt_picture">AddPicture</string>
+    <string name="btn_save">Save Debtor</string>
+    <string name="lbl_installments">Installments</string>
+    <string name="rb1">30</string>
+    <string name="rb2">45</string>
+    <string name="rb3">60</string>
+    <string name="txt_future_value">Future Value</string>
+    <string name="title_activity_register_payment">RegisterPayment</string>
+
+</resources>
